@@ -6,8 +6,6 @@
 
 ⚐ Based in Senegal
 
-
-
 ## Skills
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/csharp.svg" alt="C#" width="25" height="25" /></a>  
 <a href="https://go.dev" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/go.svg" alt="Go" width="25" height="25" /></a>  
